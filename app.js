@@ -1,5 +1,5 @@
 var confurl = ['appjs'];
-var currentHostname = 'https://tukangpilem.github.io/videos/';
+var currentHostname = 'https://perkasa999.github.io/movmov/';
 document['addEventListener']('deviceready', function ()
 {
 	GetJS();
