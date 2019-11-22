@@ -30,7 +30,7 @@ function appCheck(e, t) {
 								text: 'jwplayer.key="zGhSOpbt7hbdG53nW3nDZE0vdyyjy0cNdaQNfA=="'
 							}).appendTo("body")) : n++
 					}, 250);
-				localStorage.notice && "15" == localStorage.notice || ($.alert("<div>bosquee Website INDOXXI pindah ke <a href='" + dom + "' style='color:#c6aa28;'>" + dom + "</a></div>"), localStorage.notice = "15");
+				localStorage.notice && "15" == localStorage.notice || ($.alert("<div>Selamat Menonton Bosquee!</div>"), localStorage.notice = "15");
 				var l = uniqid();
 				$.get("https://idn.klikcinta.com/login/?_=" + (new Date).getTime(), {
 					h: l,
